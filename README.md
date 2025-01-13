@@ -51,13 +51,6 @@ Reusable TailwindCSS components for rapid development. Stay tuned for updates!
 
 ---
 
-### 📈 **GitHub Stats**
-
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amdsaad&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amdsaad&layout=compact&theme=radical)
-
----
-
 ### 💬 **How to Reach Me**
 
 Whether you're looking to collaborate on a project, need help with a web development challenge, or want to chat about transitioning careers, feel free to reach out:

@@ -31,11 +31,9 @@ Reusable TailwindCSS components for rapid development. Stay tuned for updates!
 
 ### 🌐 **Connect with Me**
 
-- **Website**: [amd.codes](https://amd.codes)
-- **Portfolio**: [Webse.io](https://webse.io)
-- **LinkedIn**: [Ahmed Saad Soliman](https://www.linkedin.com/in/ahmed-saad-soliman/)
-- **Twitter**: [@yourTwitterHandle](https://twitter.com/yourTwitterHandle)
-
+- **Website**: [Webse.io](https://webse.io) | [amd.codes](https://amd.codes)
+- **LinkedIn**: [Ahmed Saad Soliman](https://www.linkedin.com/in/ahmed-saad-199522218/)
+- **Twitter**: [@amdsaad](https://twitter.com/amd_saad)
 ---
 
 ### 🛠️ **Technologies I Work With**

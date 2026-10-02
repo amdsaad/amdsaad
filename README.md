@@ -2,7 +2,7 @@
 
 **Full-Stack Web Developer | Nuxt, Vue, TypeScript, Strapi & Supabase | Cairo, Egypt**
 
-Production software since 2020: SaaS products, client applications and enterprise platforms. I take work from requirements and technical planning through implementation, deployment, maintenance and production support, using Claude Code and Codex in an AI-assisted, spec-driven workflow.
+I build SaaS products, client applications and enterprise platforms, taking work from requirements and technical planning through implementation, deployment, maintenance and production support, using Claude Code and Codex in an AI-assisted, spec-driven workflow.
 
 ---
 

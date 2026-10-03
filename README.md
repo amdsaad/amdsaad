@@ -1,17 +1,18 @@
 # Hi there, I'm Ahmed Saad! 👋
 
-**Full-Stack Web Developer | Nuxt, Vue, TypeScript, Strapi & Supabase | Cairo, Egypt**
+**Full-Stack Web Developer | Web Apps, SaaS & AI Integrations | Nuxt, Vue, TypeScript, Strapi & Supabase | Cairo, Egypt**
 
-I build SaaS products, client applications and enterprise platforms, taking work from requirements and technical planning through implementation, deployment, maintenance and production support, using Claude Code and Codex in an AI-assisted, spec-driven workflow.
+I'm a full-stack developer who spent 16+ years running hotel operations before writing code. I build web apps, client portals, dashboards and SaaS products that teams actually use, with AI built in where it saves real work, from requirements to production and support after launch. I work with Claude Code and Codex in an AI-assisted, spec-driven workflow.
 
 ---
 
 ### 🌟 **About Me**
 
 - 👨‍💻 **Expertise**: Vue, Nuxt, TypeScript, React (basic), Tailwind CSS · Strapi, Supabase, PostgreSQL, MySQL, REST APIs, Stripe · Linux/VPS, Vercel, Git, CI/CD and automated testing (AI-assisted)
-- 🧠 **Background**: 16+ years in hotel operations (Accor, Rove Hotels), including Front Office Manager roles and two hotel pre-openings. It shapes how I turn real hospitality workflows into software for hospitality, travel, booking and operations.
+- 🧠 **Background**: 16+ years in hotel operations (Accor, Rove Hotels), including Front Office Manager roles and three hotel pre-openings. It shapes how I understand the teams I build for.
 - 📍 **Based in** Cairo, Egypt. Open to GCC/EMEA travel and relocation.
-- 💼 **Open to** full-time roles and select projects.
+- 💼 **Open to** full-time roles and freelance projects.
+- 🧪 **What I'm building and learning now**: [amdsaad.com/lab](https://amdsaad.com/lab)
 
 ---
 

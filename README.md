@@ -31,7 +31,8 @@ A lightweight example of implementing Server-Sent Events (SSE) with Express.js f
 - **Website**: [amdsaad.com](https://amdsaad.com)
 - **LinkedIn**: [Ahmed Saad](https://linkedin.com/in/ahmed-saad-dev)
 - **X**: [@amd_saad](https://twitter.com/amd_saad)
-- **Email**: saadamd@gmail.com
+- **Email**: [hello@amdsaad.com](mailto:hello@amdsaad.com)
+- **Book a 20-min call**: [cal.com/ahmed-saad-soliman-axzyti/20-min-meeting](https://cal.com/ahmed-saad-soliman-axzyti/20-min-meeting)
 
 ---
 
@@ -53,4 +54,4 @@ A lightweight example of implementing Server-Sent Events (SSE) with Express.js f
 
 ### 💬 **How to Reach Me**
 
-Whether you want to collaborate on a project, discuss a role, or talk web development, reach out at saadamd@gmail.com or through [amdsaad.com](https://amdsaad.com).
+Whether you want to collaborate on a project, discuss a role, or talk web development, reach out at [hello@amdsaad.com](mailto:hello@amdsaad.com), book a [20-minute call](https://cal.com/ahmed-saad-soliman-axzyti/20-min-meeting), or visit [amdsaad.com](https://amdsaad.com).
